@@ -1,0 +1,16 @@
+.yellowfront {
+    color: rgb(164, 164, 89);
+    text-align: center;
+    padding: 20px;
+}
+
+.linkcl {
+  color: rgb(196, 196, 135);
+  font-weight: bold;
+}
+
+.prompt-regular {
+  font-family: "Prompt", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
